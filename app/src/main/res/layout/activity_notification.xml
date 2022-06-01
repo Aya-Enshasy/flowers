@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NotificationActivity">
+
+    <TextView
+        android:id="@+id/notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginEnd="20dp"
+        android:textColor="@color/black"
+        android:layout_marginStart="50dp"
+
+        android:text="Notification" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="20dp"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:text="Notification History records USSD, Class 0 (Flash) SMS,\n popped dialog, app installation, toasts and notifications. This can be used to:\n
+1. Backup messages by apps and read them later\n
+2. Find out which app pushed annoying status bar advertisement, and uninstall it.\n
+3. Auto dismiss USSD and Class 0 dialog (pro version)" />
+</LinearLayout>

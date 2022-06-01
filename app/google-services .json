@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011313598426",
+    "firebase_url": "https://androidfb-c4c30-default-rtdb.firebaseio.com",
+    "project_id": "androidfb-c4c30",
+    "storage_bucket": "androidfb-c4c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011313598426:android:40bd8e43f78ff4b22e2ae3",
+        "android_client_info": {
+          "package_name": "com.example.fragmentactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011313598426-j43f9ln7n7grguimieefldbl359a5kp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXn8ZDrNubbv6lbeZjYRYqXMnVHjEcCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011313598426-j43f9ln7n7grguimieefldbl359a5kp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
